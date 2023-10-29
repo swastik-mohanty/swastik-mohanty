@@ -2,9 +2,9 @@
 
 I'm a [Your Occupation/Title] passionate about [Your Interests].
 
-- 🌱 I’m currently learning [What you are currently learning].
-- 💬 Ask me about [What topics you're knowledgeable about].
-- 📫 How to reach me: [Your Contact Information].
+- 🌱 I’m currently learning **ReactJS**, **NextJS**.
+<!-- 💬 Ask me about [What topics you're knowledgeable about].-->
+<!-- - 📫 How to reach me: [Your Contact Information].
 - 😄 Pronouns: [Your Pronouns, if applicable].
 
 ## 🔧 Technologies & Tools
@@ -12,12 +12,10 @@ I'm a [Your Occupation/Title] passionate about [Your Interests].
 - [Technology/Tool 1]
 - [Technology/Tool 2]
 - [Technology/Tool 3]
-
+-->
 ## 🌐 Connect with Me
 
-- [Your personal website]
 - [LinkedIn]
-- [Twitter]
 - [Other social media links]
 
 ## 📈 GitHub Stats
@@ -26,7 +24,7 @@ I'm a [Your Occupation/Title] passionate about [Your Interests].
 
 ## 🏆 GitHub Trophies
 
-<!-- [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername)](https://github.com/ryo-ma/github-profile-trophy) -->
+ [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📂 My Projects
 
