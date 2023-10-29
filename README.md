@@ -26,7 +26,7 @@ I'm a [Your Occupation/Title] passionate about [Your Interests].
 
 ## 🏆 GitHub Trophies
 
-//[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 📂 My Projects
 
