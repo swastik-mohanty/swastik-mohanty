@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm [Swastik Mohanty](https://github.com/swastik-mohanty/)!
 
-I'm a [Your Occupation/Title] passionate about [Your Interests].
+I'm a Student passionate about Web Development and Backend.
 
 - 🌱 I’m currently learning **ReactJS**, **NextJS**.
 <!-- 💬 Ask me about [What topics you're knowledgeable about].-->
@@ -15,31 +15,31 @@ I'm a [Your Occupation/Title] passionate about [Your Interests].
 -->
 ## 🌐 Connect with Me
 
-- [LinkedIn]
-- [Other social media links]
+- [LinkedIn Not Ready Yet]
+<!-- - [Other social media links] -->
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=swastik-mohanty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
  [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📂 My Projects
+<!-- ## 📂 My Projects -->
 
-Here are some of the projects I'm proud of:
+<!--Here are some of the projects I'm proud of:-->
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+<!--- [Project 1](Link to Project 1)-->
+<!--- [Project 2](Link to Project 2)-->
+<!--- [Project 3](Link to Project 3)-->
 
-Feel free to explore my repositories for more!
+<!--Feel free to explore my repositories for more!-->
 
-## 📚 Latest Blog Posts
+<!--## 📚 Latest Blog Posts-->
 
-- [Blog Post 1](Link to Blog Post 1)
-- [Blog Post 2](Link to Blog Post 2)
+<!--- [Blog Post 1](Link to Blog Post 1)-->
+<!--- [Blog Post 2](Link to Blog Post 2)-->
 
 <!-- You can add more sections as needed -->
 
