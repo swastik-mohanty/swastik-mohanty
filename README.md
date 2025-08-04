@@ -1,8 +1,8 @@
-# Hello, I'm [Swastik Mohanty](https://github.com/swastik-mohanty/)!
+# Hello, I'm [Swastik Mohanty](https://swastik-dev.netlify.app/)!
 
-I'm a Student passionate about Web Development and Backend.
+I'm a Fullstack Developer passionate about Web Development and Backend.
 
-- 🌱 I’m currently learning **ReactJS**, **NextJS**.
+- 🌱 I’m currently working on **ReactJS**, **NextJS** and learning **React-Native**.
 <!-- 💬 Ask me about [What topics you're knowledgeable about].-->
 <!-- - 📫 How to reach me: [Your Contact Information].
 - 😄 Pronouns: [Your Pronouns, if applicable].
@@ -13,9 +13,9 @@ I'm a Student passionate about Web Development and Backend.
 - [Technology/Tool 2]
 - [Technology/Tool 3]
 -->
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me
 
-- [LinkedIn Not Ready Yet]
+- [LinkedIn Not Ready Yet] -->
 <!-- - [Other social media links] -->
 
 ## 📈 GitHub Stats
