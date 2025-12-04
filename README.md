@@ -1,54 +1,31 @@
-# 🚀 **Swastik Mohanty — Fullstack Developer**
+# Hi there 👋
 
-Hi! I'm **Swastik Mohanty**, a passionate **Fullstack Developer** who loves building clean, scalable, and user-friendly applications.  
-I enjoy working across the stack — from crafting beautiful UI to designing efficient backend systems.
+- 🌱 I’m currently learning **JavaScript (ES6)🐍**
 
----
+- 👨‍💻 All of my projects are available at [Web@Mxtiy/Projects](https://mxtiy.vercel.app/projects/) SOON
 
-## 🌱 **Currently Exploring**
-- **ReactJS**, **NextJS**, and transitioning into **React Native**
-- Backend development with **Node.js**, **Express**, **MongoDB**, **MySQL**
-- Modern UI using **Tailwind**, **Framer Motion**, **React Native**
+- 📫 How to reach me **mxtiy@duck.com**
 
----
+[![Profile Views](https://u8views.com/api/v1/github/profiles/146015362/views/day-week-month-total-count.svg)](https://github.com/NoReplyUI5)
 
-## 🔧 **Tech Stack & Tools**
+# Discord Status:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1053918356375351386?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/1053918356375351386)
 
-### **Frontend**
-- React.js • Next.js • JavaScript • TailwindCSS • Bootstrap  
-- React Native • Framer Motion
+# Contacts:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/1053918356375351386)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/knifecodez)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/knifecodez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tamim99g)
 
-### **Backend**
-- Node.js • Express.js  
-- PHP • Laravel
+# Contribute:
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=NoReplyUI5&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/NoReplyUI5)
 
-### **Databases**
-- MongoDB • MySQL • PostgreSQL
+# Tools & Packages:
+<p align="center">
+  <a href="https://github.com/NoReplyUI5">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,nodejs,js,py,discordjs,mongodb,cloudflare" />
+  </a>
+</p>
 
-### **Tools & Platforms**
-- Git • VS Code • Postman  
-- AWS • Vercel • WinSCP • FileZilla • PuTTY
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swastik-mohanty&show_icons=true&theme=dark&cache_seconds=0)
-
----
-
-## 🏆 **GitHub Trophies**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty&theme=darkhub)
-
----
-
-## 🧷 **Discord Presence**
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586633787811561664?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/586633787811561664)
-
----
-
-## 📎 **Portfolio**
-🔗 **https://swastik-dev.netlify.app**
-
+# GitHub Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
