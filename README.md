@@ -22,6 +22,10 @@ I'm a Fullstack Developer passionate about Web Development and Backend.
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=swastik-mohanty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🧷 Discord Stats
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/586633787811561664?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/586633787811561664)
+
 ## 🏆 GitHub Trophies
 
  [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
