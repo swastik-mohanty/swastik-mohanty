@@ -8,7 +8,7 @@ I enjoy working across the stack — from crafting beautiful UI to designing eff
 ## 🌱 **Currently Exploring**
 - **ReactJS**, **NextJS**, and transitioning into **React Native**
 - Backend development with **Node.js**, **Express**, **MongoDB**, **MySQL**
-- Modern UI using **Tailwind**, **Framer Motion**, **React Native Reanimated**
+- Modern UI using **Tailwind**, **Framer Motion**, **React Native**
 
 ---
 
