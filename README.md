@@ -1,49 +1,54 @@
-# Hello, I'm [Swastik Mohanty](https://swastik-dev.netlify.app/)!
+# 🚀 **Swastik Mohanty — Fullstack Developer**
 
-I'm a Fullstack Developer passionate about Web Development and Backend.
+Hi! I'm **Swastik Mohanty**, a passionate **Fullstack Developer** who loves building clean, scalable, and user-friendly applications.  
+I enjoy working across the stack — from crafting beautiful UI to designing efficient backend systems.
 
-- 🌱 I’m currently working on **ReactJS**, **NextJS** and learning **React-Native**.
-<!-- 💬 Ask me about [What topics you're knowledgeable about].-->
-<!-- - 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns, if applicable].
+---
 
-## 🔧 Technologies & Tools
+## 🌱 **Currently Exploring**
+- **ReactJS**, **NextJS**, and transitioning into **React Native**
+- Backend development with **Node.js**, **Express**, **MongoDB**, **MySQL**
+- Modern UI using **Tailwind**, **Framer Motion**, **React Native Reanimated**
 
-- [Technology/Tool 1]
-- [Technology/Tool 2]
-- [Technology/Tool 3]
--->
-<!-- ## 🌐 Connect with Me
+---
 
-- [LinkedIn Not Ready Yet] -->
-<!-- - [Other social media links] -->
+## 🔧 **Tech Stack & Tools**
 
-## 📈 GitHub Stats
+### **Frontend**
+- React.js • Next.js • JavaScript • TailwindCSS • Bootstrap  
+- React Native • Framer Motion
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=swastik-mohanty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### **Backend**
+- Node.js • Express.js  
+- PHP • Laravel
 
-## 🧷 Discord Stats
+### **Databases**
+- MongoDB • MySQL • PostgreSQL
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/586633787811561664?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/586633787811561664)
+### **Tools & Platforms**
+- Git • VS Code • Postman  
+- AWS • Vercel • WinSCP • FileZilla • PuTTY
 
-## 🏆 GitHub Trophies
+---
 
- [![My Github Troophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 **GitHub Stats**
 
-<!-- ## 📂 My Projects -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swastik-mohanty&show_icons=true&theme=dark&cache_seconds=0)
 
-<!--Here are some of the projects I'm proud of:-->
+---
 
-<!--- [Project 1](Link to Project 1)-->
-<!--- [Project 2](Link to Project 2)-->
-<!--- [Project 3](Link to Project 3)-->
+## 🏆 **GitHub Trophies**
 
-<!--Feel free to explore my repositories for more!-->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty&theme=darkhub)
 
-<!--## 📚 Latest Blog Posts-->
+---
 
-<!--- [Blog Post 1](Link to Blog Post 1)-->
-<!--- [Blog Post 2](Link to Blog Post 2)-->
+## 🧷 **Discord Presence**
 
-<!-- You can add more sections as needed -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586633787811561664?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/586633787811561664)
+
+---
+
+## 📎 **Portfolio**
+🔗 **https://swastik-dev.netlify.app**
 
