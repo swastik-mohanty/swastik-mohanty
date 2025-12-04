@@ -28,7 +28,7 @@ I'm a Fullstack Developer passionate about Web Development and Backend.
 
 ## 🏆 GitHub Trophies
 
- [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
+ [![My Github Troophies](https://github-profile-trophy.vercel.app/?username=swastik-mohanty)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## 📂 My Projects -->
 
